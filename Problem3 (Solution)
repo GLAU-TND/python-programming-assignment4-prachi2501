@@ -1,0 +1,7 @@
+a=input()
+st=eval(input()) 
+x=set() 
+for i in st:
+  if a==k[0: len(a)]: 
+    x.add(k)
+print(x)
