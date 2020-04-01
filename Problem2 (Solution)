@@ -1,0 +1,14 @@
+x=eval(input())
+def new(z):
+   try:
+     for i in z: 
+       if  type(z[k]) ==type({}) :
+         for i in z[k]
+           z[k+i]==z[k][i]
+           z. pop(k) 
+           new(z) 
+       else:  
+        print (z) 
+except runtime error:
+  pass 
+new (x)
